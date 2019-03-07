@@ -12,6 +12,17 @@
 - Phase3: Execute DQ Improvements
 - Phase4: Sustain DQ Processes
 
+
+## Data Quality Framework
+- Completeness
+- Representative
+- Reputation
+- Collection
+- Accuracy
+- Value
+- Accessibility 
+
+
 ## External References
 - https://wiki.glitchdata.com/index.php?title=Data_Quality
 - https://wiki.glitchdata.com/index.php?title=Data_Quality_Improvement_Plan
